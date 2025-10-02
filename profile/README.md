@@ -322,7 +322,6 @@
 - [공연 서비스](https://github.com/Lucky-Bikini-City-4/performance-service)  
 - [음식점 서비스](https://github.com/Lucky-Bikini-City-4/restaurants-service)  
 - [전시회 서비스](https://github.com/Lucky-Bikini-City-4/exhibition-service)  
-- [검색 서비스](https://github.com/Lucky-Bikini-City-4/search-service)  
 - [알림 서비스](https://github.com/Lucky-Bikini-City-4/alarm-service)  
 - [유저 서비스](https://github.com/Lucky-Bikini-City-4/user-service)  
 - [백오피스 서비스](https://github.com/Lucky-Bikini-City-4/backoffice-service)  
